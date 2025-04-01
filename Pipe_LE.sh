@@ -47,7 +47,7 @@ echo
 # Paths
 NODE_INFO_FILE=~/pipe-node/node_info.json
 PUBKEY_FILE="/root/.pubkey"
-REFERRAL_CODE="30f20ac82d261f39"  # Default referral code
+REFERRAL_CODE="1fa7623cc0cd7a9d"  # Default referral code
 NODE_DIR=~/pipe-node
 PIPE_STATUS_SCRIPT_URL="https://raw.githubusercontent.com/Ashuxd-X/Pipe-Network/refs/heads/main/Status.sh"
 PIPE_STATUS_SCRIPT="$NODE_DIR/pipe_status.sh"
